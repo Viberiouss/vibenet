@@ -35,10 +35,10 @@ setup(
         "Topic :: Internet :: WWW/HTTP :: WSGI :: Application",
         'License :: OSI Approved :: GNU Affero General Public License v3'
     ],
-    keywords='metasearch searchengine search web http',
-    author='SearXNG dev team',
+    keywords='secure search network',
+    author='Brandon',
     author_email='contact@searxng.org',
-    license='GNU Affero General Public License',
+    license='MIT Public License',
     packages=find_packages(exclude=["tests*", "searxng_extra"]),
     zip_safe=False,
     install_requires=requirements,
